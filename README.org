@@ -1,0 +1,17 @@
+# -*- mode: org; -*-
+#+TITLE: README
+#+DESCRIPTION:
+#+KEYWORDS:
+#+AUTHOR:
+#+email:
+#+INFOJS_OPT:
+#+STARTUP:  content
+
+#+DATE: CREATED: <Tue Mar 21 20:13:03 MSK 2023>
+# Time-stamp: <Последнее обновление -- Tuesday March 21 20:16:58 MSK 2023>
+
+Вёрстка делается по видео [[https://www.youtube.com/@FreelancerLifeStyle][Жени Андриканич]]
+[[https://www.youtube.com/watch?v=hoC_fjeL6P4][Адаптивная вёрстка лендинга. Как сделать верстку сайта. Правильная верстка сайта. Респонсив.]]
+
+Остановился на 30-той минуте, организация меню-бургера. Нужно будет изучить его урок по этому делу и
+затем продолжить.
